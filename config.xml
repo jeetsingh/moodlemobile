@@ -5,10 +5,10 @@
         id        = "com.jobsupport.moodle"
         versionCode = "20200"
         version   = "3.3.2">
-    <name>JSS USPS Postal Simulator</name>
+    <name>USPS Postal Exam Simulator</name>
 
     <description>
-        JSS USPS Postal Simulator
+        USPS Postal Exam Simulator
     </description>
 
     <author href="https://www.viridiangeeks.com/" email="mobile@viridiangeeks.com">
