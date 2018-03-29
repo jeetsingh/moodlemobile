@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.jobsupport.moodle"
+        id        = "com.binder.uspspostalexam"
         versionCode = "20200"
         version   = "3.3.2">
     <name>USPS Postal Exam Simulator</name>
@@ -122,8 +122,8 @@
         <param name="MICROPHONE_USAGE_DESCRIPTION" value="We'd like to access your microphone to let you record an audio"/>
     </gap:plugin>
     <gap:plugin name="cordova-plugin-device" source="npm" />
-    <gap:plugin name="cordova-plugin-file" source="npm" version="4.3.2" />
-    <gap:plugin name="cordova-plugin-file-transfer" source="npm" version="1.6.3" />
+    <gap:plugin name="cordova-plugin-file" source="npm" version="6.0.1" />
+    <gap:plugin name="cordova-plugin-file-transfer" source="npm" version="1.7.1" />
     <gap:plugin name="cordova-plugin-globalization" source="npm" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm" />
     <gap:plugin name="cordova-plugin-network-information" source="npm" />
